@@ -1,7 +1,7 @@
 from PIL import Image, ImageOps
 import os
 
-images = ["QField.png", "QGIS.png", "OrganicMaps.jpg", "Alicloud.avif"]
+images = ["QField.png", "QGIS.png", "OrganicMaps.jpg", "Alicloud.avif, "Map.jpg"]
 size = (1200, 628)
 
 for img_name in images:
